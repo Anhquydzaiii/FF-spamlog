@@ -13,7 +13,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
 # --- CẤU HÌNH ---
-API_TOKEN = '8622851573:AAEWd-_f1CPPT92-oF3gAMjtujZhIOHg6hQ' 
+API_TOKEN = '8446611810:AAEK1zi3Fz6zZymBg7WGukFzmNmt7wjxoM0' 
 ADMIN_ID = 8038983330  
 bot = telebot.TeleBot(API_TOKEN)
 
